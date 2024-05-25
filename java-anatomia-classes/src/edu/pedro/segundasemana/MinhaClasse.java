@@ -1,3 +1,4 @@
+package edu.pedro.segundasemana;
 import java.sql.Struct;
 
 public class MinhaClasse {

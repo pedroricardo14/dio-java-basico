@@ -1,3 +1,4 @@
+package edu.pedro.primeirasemana;
 public class boletimEstudantil {
     public static void main(String[] args) {
         // identação
